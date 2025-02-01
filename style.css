@@ -1,0 +1,8 @@
+h2{
+    text-decoration: underline;
+
+}
+.banner{
+    background-color: pink;
+        background: linear-gradient(rgb(252, 142, 161), rgb(221, 149, 161), pink);
+}
